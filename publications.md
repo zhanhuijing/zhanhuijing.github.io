@@ -12,6 +12,18 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong> Improving multi-modal brain tumor segmentation via pre-training and knowledge distillation based post-training
+</strong><br />
+           Weide Liu, Jingwen Hou, Xiaoyang Zhong, <b>Huijing Zhan</b>, Jun Cheng, Yuming Fang, Guanghui Yue <br />
+           (<strong>Neurocomputing</strong>), 2025<br />
+       </p>
+    </div>
+</div>
+
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong> DiSCo: Disentangled Attribute Manipulation Retrieval via Semantic Reconstruction and Consistency Regularization
 </strong><br />
            Min Tan, Guanhao Liu, <b>Huijing Zhan</b>, Yuyu Yin, Zhou Yu, Jiajun Ding, Yinfu Feng <br />
@@ -19,6 +31,19 @@ title: Publications
        </p>
     </div>
 </div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> MDE: Modality Discrimination Enhancement for Multi-Modal Recommendation
+</strong><br />
+           Hang Zhou, Yucheng Wang, <b>Huijing Zhan</b> <br />
+          2025 IEEE International Symposium on Circuits and Systems (ISCAS) (<strong>ISCAS</strong>), 2025<br />
+       </p>
+    </div>
+</div>
+
+Improving multi-modal brain tumor segmentation via pre-training and knowledge distillation based post-training
 
 <h3>
     <a name='2024'></a> 2024
@@ -211,4 +236,5 @@ title: Publications
        </p>
     </div>
 </div> 
+
 
