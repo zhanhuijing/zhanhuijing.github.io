@@ -6,6 +6,21 @@ title: Publications
 <br />
 
 <h3>
+    <a name='2025'></a> 2025
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> DiSCo: Disentangled Attribute Manipulation Retrieval via Semantic Reconstruction and Consistency Regularization
+</strong><br />
+           Min Tan, Guanhao Liu, <b>Huijing Zhan</b>, Yuyu Yin, Zhou Yu, Jiajun Ding, Yinfu Feng <br />
+          Proceedings of the 33rd ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025<br />
+       </p>
+    </div>
+</div>
+
+<h3>
     <a name='2024'></a> 2024
 </h3>
 
@@ -196,3 +211,4 @@ title: Publications
        </p>
     </div>
 </div> 
+
