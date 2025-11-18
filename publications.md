@@ -15,7 +15,7 @@ title: Publications
           <strong> Improving multi-modal brain tumor segmentation via pre-training and knowledge distillation based post-training
 </strong><br />
            Weide Liu, Jingwen Hou, Xiaoyang Zhong, <b>Huijing Zhan</b>, Jun Cheng, Yuming Fang, Guanghui Yue <br />
-           (<strong>Neurocomputing</strong>), 2025<br />
+           <strong>Neurocomputing</strong>, 2025<br />
        </p>
     </div>
 </div>
@@ -43,7 +43,27 @@ title: Publications
     </div>
 </div>
 
-Improving multi-modal brain tumor segmentation via pre-training and knowledge distillation based post-training
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> CopeCap: A lightweight image captioning model with collaborative prompt learning
+</strong><br />
+           Xiwei Yu, Guoshun He, <b>Huijing Zhan</b><br />
+          Asia Pacific Signal and Information Processing Association (<strong>APSIPA ASC</strong>), 2025<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Multimodal Sentiment Analysis with Missing Modality: A Knowledge-Transfer Approach
+</strong><br />
+           Weide Liu, <b>Huijing Zhan</b><br />
+          Asia Pacific Signal and Information Processing Association (<strong>APSIPA ASC</strong>), 2025<br />
+       </p>
+    </div>
+</div>
 
 <h3>
     <a name='2024'></a> 2024
@@ -236,5 +256,6 @@ Improving multi-modal brain tumor segmentation via pre-training and knowledge di
        </p>
     </div>
 </div> 
+
 
 
