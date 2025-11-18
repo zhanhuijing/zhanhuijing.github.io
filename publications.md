@@ -38,7 +38,7 @@ title: Publications
           <strong> MDE: Modality Discrimination Enhancement for Multi-Modal Recommendation
 </strong><br />
            Hang Zhou, Yucheng Wang, <b>Huijing Zhan</b> <br />
-          2025 IEEE International Symposium on Circuits and Systems (ISCAS) (<strong>ISCAS</strong>), 2025<br />
+          2025 IEEE International Symposium on Circuits and Systems (<strong>ISCAS</strong>), 2025<br />
        </p>
     </div>
 </div>
@@ -256,6 +256,7 @@ title: Publications
        </p>
     </div>
 </div> 
+
 
 
 
